@@ -1,0 +1,38 @@
+body{
+   background-color:bisque;
+}
+    
+
+.baslık{
+    color: orangered;
+    text-align: center;
+    
+}
+h2, h3{
+    background-color: orangered;
+    border-radius: 10px;
+    padding: 10px;
+   
+}
+
+img{
+    border: solid 2px orangered;
+    
+}
+.liste{
+    border: solid 2px orangered;
+    padding: 25px;
+    width: 350px;
+    border-radius: 10px;
+    margin:0 500px; 
+    box-shadow: 5px 5px 5px -1px orangered;
+}
+
+.liste ul li{
+    text-align: left;
+    list-style-position:inside;
+}
+
+p{
+    text-align: right;
+}
